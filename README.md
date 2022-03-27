@@ -10,9 +10,16 @@ There is also a simple dashboard to help you monitor your recent trades.
 This process assumes you have Python (3) installed.
 
 ```
-pip install virtualenv # if you don't already have virtualenv installed
+# if you don't already have virtualenv installed
+pip install virtualenv
+
+# initialize the virtual environment
 python -m virtualenv env
-source env/Scripts/active # your activate may be in a slightly different location
+
+# your activate script may be in a slightly different location
+source env/Scripts/activate
+
+# install dependencies
 pip install -r requirements.txt
 ```
 
