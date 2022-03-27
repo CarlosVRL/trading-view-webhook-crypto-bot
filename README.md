@@ -4,6 +4,8 @@ trading-view-webhook-crypto-bot is a trading pot that allows users to place trad
 
 There is also a simple dashboard to help you monitor your recent trades.
 
+![preview](img/preview.PNG)
+
 ## Quickstart Using Python
 
 This process assumes you have Python (3) installed.
