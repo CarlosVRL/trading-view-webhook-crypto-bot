@@ -5,6 +5,8 @@ There is also a simple dashboard to help you monitor your recent trades.
 
 <img src="img/preview.PNG" alt="preview" width="470"/>
 
+[Live Demo](https://tradingview-webhook-crypto-bot.herokuapp.com/) powered by [Heroku](https://www.heroku.com/)!
+
 ## Quickstart Using Python
 
 This process assumes you have Python (3) installed.
