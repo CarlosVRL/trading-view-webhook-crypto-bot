@@ -10,20 +10,20 @@ There is also a simple dashboard to help you monitor your recent trades.
 This process assumes you have Python (3) installed.
 
 ```
-# if you don't already have virtualenv installed
+# install virtualenv if not already installed
 pip install virtualenv
 
-# initialize the virtual environment
+# initialize the virtual environment (first-time only)
 python -m virtualenv env
 
-# your activate script may be in a slightly different location
+# activate the virtual environment
 source env/Scripts/activate
 
 # install dependencies
 pip install -r requirements.txt
 ```
 
-After installing the pre-requisites, start the app on default port `localhost:500`
+After installing the pre-requisites, start the app using Python.
 
 ```
 python app.py
